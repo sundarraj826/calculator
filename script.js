@@ -7,7 +7,7 @@ function appendToDispaly(input){
 
 }
 
-function clearDispaly(){
+function clearDisplay(){
     display.value = '';
 }
 
